@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "aus-tax-tracker": {
+      "url": "https://taxtracker.au/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aus-tax-tracker",
+  "displayName": "Aus Tax Tracker",
+  "description": "Log and look up Australian work-related tax deductions (expenses, car trips, work-from-home days and assets) in your Aus Tax Tracker account.",
+  "version": "1.0.0",
+  "author": { "name": "PrezTek", "email": "support@taxtracker.au" },
+  "homepage": "https://taxtracker.au",
+  "repository": "https://github.com/laurence-presland/aus-tax-tracker-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["tax", "australia", "deductions", "expenses", "receipts", "ato"],
+  "category": "productivity",
+  "mcpServers": "mcp.json"
+}

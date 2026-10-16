@@ -1,0 +1,10 @@
+{
+  "name": "aus-tax-tracker",
+  "version": "1.0.0",
+  "description": "Log and look up Australian work-related tax deductions in your Aus Tax Tracker account.",
+  "mcpServers": {
+    "aus-tax-tracker": {
+      "httpUrl": "https://taxtracker.au/api/mcp"
+    }
+  }
+}
